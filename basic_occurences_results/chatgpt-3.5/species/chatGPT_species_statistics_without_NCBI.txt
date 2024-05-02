@@ -1,0 +1,21 @@
+*** PURE ENTITIES ***
+
+Pure correct entities: 339
+All correct entities: 36393
+Percentage(%): 0.931
+Number of excess entities (incorrect): 4894
+
+*** ENTITIES from test are contained in chatGPT response ***
+
+correct entities: 430
+All correct entities: 36393
+Percentage(%): 1.181
+Number of excess entities (incorrect): 4803
+
+*** ENTITIES from test are contained in chatGPT response and vice versa ***
+
+correct entities: 474
+All correct entities: 36393
+Percentage(%): 1.302
+Number of excess entities (incorrect): 4759
+
